@@ -106,8 +106,14 @@ async function main() {
 
       const image = el.srcSet.vertical;
 
-      const diff =
-        prevData.find((el) => (el.title === title)?.position - 1 - index) || 0;
+      const previousItem =
+        prevData.find((el) => el.title === title)?.position || 0;
+
+      console.log(`${title}: `, previousItem - index - 1);
+
+      const diff = prevData.find(
+        (el) => (el.title === title)?.position - 1 - index
+      );
 
       return {
         position: index + 1,
