@@ -5,7 +5,7 @@ async function main() {
   const prevData = JSON.parse(readFileSync("data.json", "utf8"));
 
   const browser = await chromium.launch({
-    headless: false,
+    headless: true,
     args: ["--no-sandbox", "--no-zygote", "--single-process"],
   });
 
