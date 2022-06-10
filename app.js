@@ -109,11 +109,7 @@ async function main() {
       const previousItem =
         prevData.find((el) => el.title === title)?.position || 0;
 
-      console.log(`${title}: `, previousItem - index - 1);
-
-      const diff = prevData.find(
-        (el) => (el.title === title)?.position - 1 - index
-      );
+      const diff = previousItem - index - 1;
 
       return {
         position: index + 1,
