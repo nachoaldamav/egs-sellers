@@ -104,7 +104,7 @@ async function main() {
 
       const price = el.raw.price.totalPrice.fmtPrice.originalPrice;
 
-      const image = el.srcSet.vertical;
+      const image = el.srcSet.vertical || el.keyImages.Thumbnail[0];
 
       const previousItem =
         prevData.find((el) => el.title === title)?.position || 0;
