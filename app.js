@@ -101,6 +101,8 @@ async function main() {
   } else {
     const games = globalApi.map((el, index) => {
       const { title, productSlug } = el;
+      
+      const slug = el.customAttributes["com.epicgames.app.productSlug"]
 
       const price = el.raw.price.totalPrice.fmtPrice.originalPrice;
 
@@ -116,7 +118,7 @@ async function main() {
         diff,
         title,
         price,
-        url: `https://store.epicgames.com/en-US/product/${productSlug}`,
+        url: `https://egdata.app/product/${slug || productSlug}`,
         image,
       };
     });
