@@ -102,7 +102,7 @@ async function main() {
     const games = globalApi.map((el, index) => {
       const { title, productSlug } = el;
       
-      const slug = el.customAttributes["com.epicgames.app.productSlug"]
+      const slug = el.catalogNs.mappings[0].pageSlug
 
       const price = el.raw.price.totalPrice.fmtPrice.originalPrice;
 
