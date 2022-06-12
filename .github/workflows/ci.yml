@@ -2,7 +2,7 @@ name: Node.js CI
 
 on:
   schedule:
-  - cron: "0 1 * * *"
+  - cron: "0 1/12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,4 +23,9 @@ jobs:
           file-path: data.json
           commit-msg: Update resources
           github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Revalidate website
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: 'https://egdata.app/api/revalidate-top?secret=${{ secrets.SECRET_REVALIDATE }}'
+          method: 'GET'
   
