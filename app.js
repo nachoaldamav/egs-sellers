@@ -123,7 +123,11 @@ async function main() {
 
     await browser.close();
     console.log(`${games.length} games saved... ✅`);
-    writeFileSync("data.json", JSON.stringify(games, null, 2));
+    if (prevData !== games) {
+      writeFileSync("data.json", JSON.stringify(games, null, 2));
+    } else {
+      console.log("No changes");
+    }
   }
 }
 
