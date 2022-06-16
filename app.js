@@ -101,21 +101,25 @@ async function main() {
   } else {
     const games = globalApi.map((el, index) => {
       const { title, productSlug } = el;
-      
-      const slug = el.catalogNs.mappings[0].pageSlug
+
+      const slug = el.catalogNs.mappings[0].pageSlug;
 
       const price = el.raw.price.totalPrice.fmtPrice.originalPrice;
 
       const image = el.srcSet.vertical || el.keyImages.Thumbnail[0];
 
-      const previousItem =
-        prevData.find((el) => el.title === title)?.position || 0;
+      const previousItem = prevData.find((el) => el.title === title) || {
+        position: 0,
+        diff: 0,
+      };
 
       const diff = previousItem - index - 1;
 
+      const isSamePosition = previousItem.position === index + 1;
+
       return {
         position: index + 1,
-        diff,
+        diff: isSamePosition ? previousItem.diff : diff,
         title,
         price,
         url: `https://egdata.app/product/${slug || productSlug}`,
