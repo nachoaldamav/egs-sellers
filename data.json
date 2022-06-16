@@ -1,7 +1,7 @@
 [
   {
     "position": 1,
-    "diff": 1,
+    "diff": 0,
     "title": "Genshin Impact",
     "price": "0",
     "url": "https://egdata.app/product/genshin-impact",
@@ -9,7 +9,7 @@
   },
   {
     "position": 2,
-    "diff": -1,
+    "diff": 0,
     "title": "Among Us",
     "price": "$4.99",
     "url": "https://egdata.app/product/among-us",
@@ -41,7 +41,7 @@
   },
   {
     "position": 6,
-    "diff": 1,
+    "diff": 0,
     "title": "Far Cry 6 Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/far-cry-6",
@@ -49,7 +49,7 @@
   },
   {
     "position": 7,
-    "diff": 1,
+    "diff": 0,
     "title": "Grand Theft Auto V: Premium Edition",
     "price": "$29.99",
     "url": "https://egdata.app/product/grand-theft-auto-v",
@@ -57,15 +57,15 @@
   },
   {
     "position": 8,
-    "diff": -2,
+    "diff": 0,
     "title": "Rocket League®",
     "price": "0",
     "url": "https://egdata.app/product/rocket-league",
-    "image": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-d441926566683d7048e16ac9df53eb14"
+    "image": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-f226d68abff3fb091ce1054a1d30fc23"
   },
   {
     "position": 9,
-    "diff": 1,
+    "diff": 0,
     "title": "Assassin's Creed® Valhalla Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/assassins-creed-valhalla",
@@ -73,7 +73,7 @@
   },
   {
     "position": 10,
-    "diff": 2,
+    "diff": 0,
     "title": "Cyberpunk 2077",
     "price": "$59.99",
     "url": "https://egdata.app/product/cyberpunk-2077",
@@ -81,7 +81,7 @@
   },
   {
     "position": 11,
-    "diff": -2,
+    "diff": 0,
     "title": "It Takes Two",
     "price": "$39.99",
     "url": "https://egdata.app/product/it-takes-two",
@@ -89,7 +89,7 @@
   },
   {
     "position": 12,
-    "diff": 21,
+    "diff": 0,
     "title": "Jurassic World Evolution 2",
     "price": "$59.99",
     "url": "https://egdata.app/product/jurassic-world-evolution-2",
@@ -97,7 +97,7 @@
   },
   {
     "position": 13,
-    "diff": -2,
+    "diff": 0,
     "title": "Evil Dead: The Game",
     "price": "$39.99",
     "url": "https://egdata.app/product/evil-dead-the-game",
@@ -105,7 +105,7 @@
   },
   {
     "position": 14,
-    "diff": -1,
+    "diff": 0,
     "title": "Sifu",
     "price": "$39.99",
     "url": "https://egdata.app/product/sifu",
@@ -121,7 +121,7 @@
   },
   {
     "position": 16,
-    "diff": -2,
+    "diff": 0,
     "title": "Dead by Daylight",
     "price": "$19.99",
     "url": "https://egdata.app/product/dead-by-daylight",
@@ -129,7 +129,7 @@
   },
   {
     "position": 17,
-    "diff": -1,
+    "diff": 0,
     "title": "Chivalry 2",
     "price": "$39.99",
     "url": "https://egdata.app/product/chivalry-2",
@@ -137,7 +137,7 @@
   },
   {
     "position": 18,
-    "diff": 1,
+    "diff": 0,
     "title": "Horizon Zero Dawn™ Complete Edition",
     "price": "$49.99",
     "url": "https://egdata.app/product/horizon-zero-dawn-complete-edition",
@@ -145,7 +145,7 @@
   },
   {
     "position": 19,
-    "diff": -1,
+    "diff": 0,
     "title": "Riders Republic",
     "price": "$59.99",
     "url": "https://egdata.app/product/riders-republic",
@@ -153,7 +153,7 @@
   },
   {
     "position": 20,
-    "diff": 1,
+    "diff": 0,
     "title": "Saints Row",
     "price": "$59.99",
     "url": "https://egdata.app/product/saints-row",
@@ -161,7 +161,7 @@
   },
   {
     "position": 21,
-    "diff": -4,
+    "diff": 0,
     "title": "God of War",
     "price": "$49.99",
     "url": "https://egdata.app/product/god-of-war",
@@ -169,7 +169,7 @@
   },
   {
     "position": 22,
-    "diff": -2,
+    "diff": 0,
     "title": "Anno 1800 Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/anno-1800",
@@ -177,7 +177,7 @@
   },
   {
     "position": 23,
-    "diff": -1,
+    "diff": 0,
     "title": "Rogue Company",
     "price": "0",
     "url": "https://egdata.app/product/rogue-company",
@@ -193,7 +193,7 @@
   },
   {
     "position": 25,
-    "diff": -2,
+    "diff": 0,
     "title": "Sid Meier’s Civilization® VI",
     "price": "$59.99",
     "url": "https://egdata.app/product/sid-meiers-civilization-vi",
@@ -201,7 +201,7 @@
   },
   {
     "position": 26,
-    "diff": -1,
+    "diff": 0,
     "title": "The Division 2 Standard Edition",
     "price": "$29.99",
     "url": "https://egdata.app/product/the-division-2",
@@ -209,7 +209,7 @@
   },
   {
     "position": 27,
-    "diff": 3,
+    "diff": 0,
     "title": "Ghostwire: Tokyo",
     "price": "$59.99",
     "url": "https://egdata.app/product/ghostwire-tokyo",
@@ -217,7 +217,7 @@
   },
   {
     "position": 28,
-    "diff": -2,
+    "diff": 0,
     "title": "SnowRunner",
     "price": "$29.99",
     "url": "https://egdata.app/product/snowrunner",
@@ -225,7 +225,7 @@
   },
   {
     "position": 29,
-    "diff": -2,
+    "diff": 0,
     "title": "LEGO® Star Wars™: The Skywalker Saga",
     "price": "$49.99",
     "url": "https://egdata.app/product/lego-star-wars-the-skywalker-saga",
@@ -233,7 +233,7 @@
   },
   {
     "position": 30,
-    "diff": -2,
+    "diff": 0,
     "title": "Darkest Dungeon II",
     "price": "$29.99",
     "url": "https://egdata.app/product/darkest-dungeon-2",
@@ -241,7 +241,7 @@
   },
   {
     "position": 31,
-    "diff": -31,
+    "diff": 0,
     "title": "SMITE",
     "price": "0",
     "url": "https://egdata.app/product/smite",
@@ -249,7 +249,7 @@
   },
   {
     "position": 32,
-    "diff": -3,
+    "diff": 0,
     "title": "DEATHLOOP",
     "price": "$59.99",
     "url": "https://egdata.app/product/deathloop",
@@ -257,7 +257,7 @@
   },
   {
     "position": 33,
-    "diff": -1,
+    "diff": 0,
     "title": "Battlefield V Definitive Edition",
     "price": "$49.99",
     "url": "https://egdata.app/product/battlefield-v-definitive-edition",
@@ -265,7 +265,7 @@
   },
   {
     "position": 34,
-    "diff": 7,
+    "diff": 0,
     "title": "Nioh 2 – The Complete Edition",
     "price": "$49.99",
     "url": "https://egdata.app/product/nioh-2-the-complete-edition",
@@ -273,7 +273,7 @@
   },
   {
     "position": 35,
-    "diff": -4,
+    "diff": 0,
     "title": "Satisfactory",
     "price": "$29.99",
     "url": "https://egdata.app/product/satisfactory",
@@ -281,7 +281,7 @@
   },
   {
     "position": 36,
-    "diff": 7,
+    "diff": 0,
     "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
     "price": "$49.99",
     "url": "https://egdata.app/product/kingdom-hearts-hd-1-5-2-5-remix",
@@ -289,7 +289,7 @@
   },
   {
     "position": 37,
-    "diff": -2,
+    "diff": 0,
     "title": "Days Gone",
     "price": "$49.99",
     "url": "https://egdata.app/product/days-gone",
@@ -297,7 +297,7 @@
   },
   {
     "position": 38,
-    "diff": 7,
+    "diff": 0,
     "title": "DEATH STRANDING DIRECTOR'S CUT",
     "price": "$39.99",
     "url": "https://egdata.app/product/death-stranding-directors-cut",
@@ -305,7 +305,7 @@
   },
   {
     "position": 39,
-    "diff": -1,
+    "diff": 0,
     "title": "Rainbow Six Siege Standard Edition",
     "price": "$19.99",
     "url": "https://egdata.app/product/rainbow-six-siege",
@@ -313,7 +313,7 @@
   },
   {
     "position": 40,
-    "diff": -6,
+    "diff": 0,
     "title": "MechWarrior 5: Mercenaries Standard Edition",
     "price": "$29.99",
     "url": "https://egdata.app/product/mechwarrior-5",
@@ -321,7 +321,7 @@
   },
   {
     "position": 41,
-    "diff": 5,
+    "diff": 0,
     "title": "The Cycle: Frontier",
     "price": "0",
     "url": "https://egdata.app/product/thecycle",
@@ -329,7 +329,7 @@
   },
   {
     "position": 42,
-    "diff": 5,
+    "diff": 0,
     "title": "Assassins Creed Odyssey Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/assassins-creed-odyssey",
@@ -337,7 +337,7 @@
   },
   {
     "position": 43,
-    "diff": -7,
+    "diff": 0,
     "title": "Ghost Recon Breakpoint Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/ghost-recon-breakpoint",
@@ -345,7 +345,7 @@
   },
   {
     "position": 44,
-    "diff": -5,
+    "diff": 0,
     "title": "World War Z Aftermath",
     "price": "$39.99",
     "url": "https://egdata.app/product/world-war-z",
@@ -353,7 +353,7 @@
   },
   {
     "position": 45,
-    "diff": -5,
+    "diff": 0,
     "title": "STAR WARS Jedi: Fallen Order Standard Edition",
     "price": "$39.99",
     "url": "https://egdata.app/product/star-wars-jedi-fallen-order",
@@ -361,7 +361,7 @@
   },
   {
     "position": 46,
-    "diff": -2,
+    "diff": 0,
     "title": "Back 4 Blood: Standard Edition",
     "price": "$59.99",
     "url": "https://egdata.app/product/back-4-blood",
@@ -369,7 +369,7 @@
   },
   {
     "position": 47,
-    "diff": -10,
+    "diff": 0,
     "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
     "price": "$59.99",
     "url": "https://egdata.app/product/stranger-of-paradise-final-fantasy-origin",
@@ -377,7 +377,7 @@
   },
   {
     "position": 48,
-    "diff": -48,
+    "diff": 0,
     "title": "The Witcher 3: Wild Hunt - Game of the Year Edition",
     "price": "$49.96",
     "url": "https://egdata.app/product/the-witcher-3-wild-hunt",
@@ -385,7 +385,7 @@
   },
   {
     "position": 49,
-    "diff": 1,
+    "diff": 0,
     "title": "Detroit: Become Human",
     "price": "$39.99",
     "url": "https://egdata.app/product/detroit-become-human",
@@ -393,7 +393,7 @@
   },
   {
     "position": 50,
-    "diff": -8,
+    "diff": 0,
     "title": "Voidtrain",
     "price": "$29.99",
     "url": "https://egdata.app/product/voidtrain",
