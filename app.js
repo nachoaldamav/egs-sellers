@@ -113,13 +113,13 @@ async function main() {
         diff: 0,
       };
 
-      const diff = previousItem - index - 1;
+      const diff = previousItem.position - index - 1;
 
       const isSamePosition = previousItem.position === index + 1;
 
       return {
         position: index + 1,
-        diff: isSamePosition ? previousItem.diff : diff,
+        diff: isSamePosition ? previousItem?.diff : diff,
         title,
         price,
         url: `https://egdata.app/product/${slug || productSlug}`,
