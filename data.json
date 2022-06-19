@@ -19,7 +19,7 @@
     "position": 3,
     "diff": 3,
     "title": "Among Us",
-    "price": "€3.99",
+    "price": "$4.99",
     "url": "https://egdata.app/product/among-us",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31"
   },
@@ -27,7 +27,7 @@
     "position": 4,
     "diff": 45,
     "title": "Assassin's Creed Origins Standard Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/assassins-creed-origins",
     "image": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg"
   },
@@ -35,7 +35,7 @@
     "position": 5,
     "diff": -1,
     "title": "Tiny Tina's Wonderlands",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/tiny-tinas-wonderlands",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/Daffodil_1P_Awareness_INT_Epic_1200x1600_1200x1600-356dd4965bde4c5dbd1000f9c97ac4b4"
   },
@@ -43,7 +43,7 @@
     "position": 6,
     "diff": -6,
     "title": "Battlefield™ 2042",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/battlefield-2042",
     "image": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-331f59b6877d2bf2194943fcf7a68048_1200x1600-331f59b6877d2bf2194943fcf7a68048"
   },
@@ -51,7 +51,7 @@
     "position": 7,
     "diff": 8,
     "title": "Dead by Daylight",
-    "price": "€19.99",
+    "price": "$19.99",
     "url": "https://egdata.app/product/dead-by-daylight",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503"
   },
@@ -59,7 +59,7 @@
     "position": 8,
     "diff": 5,
     "title": "Evil Dead: The Game",
-    "price": "€39.99",
+    "price": "$39.99",
     "url": "https://egdata.app/product/evil-dead-the-game",
     "image": "https://cdn1.epicgames.com/offer/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGame_SaberInteractiveInc_S2_1200x1600-8e839d708bc638cd58c219ae38d58f6f"
   },
@@ -67,7 +67,7 @@
     "position": 9,
     "diff": -1,
     "title": "Grand Theft Auto V: Premium Edition",
-    "price": "€29.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/grand-theft-auto-v",
     "image": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
   },
@@ -75,7 +75,7 @@
     "position": 10,
     "diff": -7,
     "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "price": "€79.99",
+    "price": "$69.99",
     "url": "https://egdata.app/product/final-fantasy-vii-remake-intergrade",
     "image": "https://cdn1.epicgames.com/offer/6f43ab8025ad42d18510aa91e9eb688b/EGS_FINALFANTASYVIIREMAKEINTERGRADE_SquareEnix_S2_1200x1600-e147110cf8dd1bc8c96810a5867b3475"
   },
@@ -83,7 +83,7 @@
     "position": 11,
     "diff": -11,
     "title": "Mass Effect™ Legendary Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/mass-effect-legendary-edition",
     "image": "https://cdn1.epicgames.com/offer/2a535f0e7c754dbe9157bf96adc62d56/EGS_MassEffectLegendaryEdition_BioWare_S2_1200x1600-c8286ed1e08b413e7cbdc190db5a589a"
   },
@@ -99,7 +99,7 @@
     "position": 13,
     "diff": -1,
     "title": "Sifu",
-    "price": "€39.99",
+    "price": "$39.99",
     "url": "https://egdata.app/product/sifu",
     "image": "https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b"
   },
@@ -107,7 +107,7 @@
     "position": 14,
     "diff": 5,
     "title": "Chivalry 2",
-    "price": "€35.99",
+    "price": "$39.99",
     "url": "https://egdata.app/product/chivalry-2",
     "image": "https://cdn1.epicgames.com/offer/bd46d4ce259349e5bd8b3ded20274737/EGS_Chivalry2_TornBannerStudios_2_1200x1600-89b10a917fbaf3f0fd9872023243fe9f"
   },
@@ -115,7 +115,7 @@
     "position": 15,
     "diff": 7,
     "title": "Jurassic World Evolution 2",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/jurassic-world-evolution-2",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S6_1200x1600-56055d1e93c502852ccc0f9578094e5d"
   },
@@ -123,7 +123,7 @@
     "position": 16,
     "diff": 18,
     "title": "Darkest Dungeon II",
-    "price": "€23.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/darkest-dungeon-2",
     "image": "https://cdn1.epicgames.com/offer/6ff9efdef6dc45ecb40ed20fcd2c4621/Shroud_FeaturedVert%20copy_1200x1600-25ff80ae686c3e7854781626c7f16def"
   },
@@ -131,7 +131,7 @@
     "position": 17,
     "diff": 25,
     "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
-    "price": "€49.99",
+    "price": "$49.99",
     "url": "https://egdata.app/product/kingdom-hearts-hd-1-5-2-5-remix",
     "image": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg"
   },
@@ -139,7 +139,7 @@
     "position": 18,
     "diff": 12,
     "title": "Saints Row",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/saints-row",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24"
   },
@@ -147,7 +147,7 @@
     "position": 19,
     "diff": -12,
     "title": "Far Cry 6 Standard Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/far-cry-6",
     "image": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
   },
@@ -163,7 +163,7 @@
     "position": 21,
     "diff": -12,
     "title": "Assassin's Creed® Valhalla Standard Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/assassins-creed-valhalla",
     "image": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
   },
@@ -171,7 +171,7 @@
     "position": 22,
     "diff": -22,
     "title": "MechWarrior 5: Mercenaries Standard Edition",
-    "price": "€23.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/mechwarrior-5",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34"
   },
@@ -179,7 +179,7 @@
     "position": 23,
     "diff": 18,
     "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/stranger-of-paradise-final-fantasy-origin",
     "image": "https://cdn1.epicgames.com/offer/d2b282a6b53e409a8f8329d3d3356f21/EGS_STRANGEROFPARADISEFINALFANTASYORIGIN_KOEITECMOGAMESCOLTD_S2_1200x1600-5c21f5cf42dd7c4db1ce06bad4da3260_1200x1600-5c21f5cf42dd7c4db1ce06bad4da3260"
   },
@@ -187,7 +187,7 @@
     "position": 24,
     "diff": -24,
     "title": "NBA 2K21",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/nba-2k21",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S2_1200x1600-2fed3198782328f4f59194ebd5e54680"
   },
@@ -195,7 +195,7 @@
     "position": 25,
     "diff": 2,
     "title": "SnowRunner",
-    "price": "€29.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/snowrunner",
     "image": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg"
   },
@@ -203,7 +203,7 @@
     "position": 26,
     "diff": -21,
     "title": "Red Dead Redemption 2",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/red-dead-redemption-2",
     "image": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic%20Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
   },
@@ -211,7 +211,7 @@
     "position": 27,
     "diff": -10,
     "title": "God of War",
-    "price": "€49.99",
+    "price": "$49.99",
     "url": "https://egdata.app/product/god-of-war",
     "image": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
   },
@@ -227,7 +227,7 @@
     "position": 29,
     "diff": -11,
     "title": "Riders Republic",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/riders-republic",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208"
   },
@@ -235,7 +235,7 @@
     "position": 30,
     "diff": -30,
     "title": "KINGDOM HEARTS III + Re Mind (DLC)",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/kingdom-hearts-iii",
     "image": "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg"
   },
@@ -243,7 +243,7 @@
     "position": 31,
     "diff": -31,
     "title": "Vampire: The Masquerade – Swansong",
-    "price": "€49.99",
+    "price": "$49.99",
     "url": "https://egdata.app/product/vampire-the-masquerade-swansong",
     "image": "https://cdn1.epicgames.com/offer/91b9a3ac7cda40718addd961fddfadca/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2_1200x1600-4b9fbee303df3621dcd280e9591bc2b9"
   },
@@ -251,7 +251,7 @@
     "position": 32,
     "diff": -9,
     "title": "LEGO® Star Wars™: The Skywalker Saga",
-    "price": "€49.99",
+    "price": "$49.99",
     "url": "https://egdata.app/product/lego-star-wars-the-skywalker-saga",
     "image": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba"
   },
@@ -259,7 +259,7 @@
     "position": 33,
     "diff": -33,
     "title": "ARK: Survival Evolved",
-    "price": "€23.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/ark",
     "image": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg"
   },
@@ -283,7 +283,7 @@
     "position": 36,
     "diff": 7,
     "title": "World War Z Aftermath",
-    "price": "€39.99",
+    "price": "$39.99",
     "url": "https://egdata.app/product/world-war-z",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/wwzAfterTall_1200x1600-b7b0af3e21961a57059ec4a3019e57fb"
   },
@@ -291,7 +291,7 @@
     "position": 37,
     "diff": -4,
     "title": "Rainbow Six Siege Standard Edition",
-    "price": "€19.99",
+    "price": "$19.99",
     "url": "https://egdata.app/product/rainbow-six-siege",
     "image": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg"
   },
@@ -299,7 +299,7 @@
     "position": 38,
     "diff": -18,
     "title": "Anno 1800 Standard Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/anno-1800",
     "image": "https://cdn1.epicgames.com/offer/oregano/an18-store-portrait-1200x1600-1200x1600-665115795_1200x1600-a714948f3c93306d618c279edded0525"
   },
@@ -307,7 +307,7 @@
     "position": 39,
     "diff": -25,
     "title": "Dying Light 2 Stay Human",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/dying-light-2-stay-human",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S4_1200x1600-b3d66b4576fd6488b674710e13493435"
   },
@@ -315,7 +315,7 @@
     "position": 40,
     "diff": -40,
     "title": "Farming Simulator 22",
-    "price": "€39.99",
+    "price": "$49.99",
     "url": "https://egdata.app/product/farming-simulator-22",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938"
   },
@@ -323,7 +323,7 @@
     "position": 41,
     "diff": -41,
     "title": "Salt and Sacrifice",
-    "price": "€15.99",
+    "price": "$19.99",
     "url": "https://egdata.app/product/salt-and-sacrifice",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SaltandSacrifice_SkaStudios_S2_1200x1600-e660571bf5026a6d8be30ddccf029c86"
   },
@@ -331,7 +331,7 @@
     "position": 42,
     "diff": -18,
     "title": "Sid Meier’s Civilization® VI",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/sid-meiers-civilization-vi",
     "image": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVI_FiraxisGames_S2-860x1148-bffad83909595b7c5c60489a17056a59.jpg"
   },
@@ -339,7 +339,7 @@
     "position": 43,
     "diff": 7,
     "title": "Voidtrain",
-    "price": "€29.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/voidtrain",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Voidtrain_NEARGA_S2_1200x1600-497cd22d4e46bc6c5ba56c3215fc5b4f"
   },
@@ -347,7 +347,7 @@
     "position": 44,
     "diff": -44,
     "title": "theHunter: Call of the Wild™",
-    "price": "€19.99",
+    "price": "$19.99",
     "url": "https://egdata.app/product/thehunter-call-of-the-wild",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2"
   },
@@ -355,7 +355,7 @@
     "position": 45,
     "diff": -10,
     "title": "Satisfactory",
-    "price": "€29.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/satisfactory",
     "image": "https://cdn1.epicgames.com/offer/crab/EGS_Satisfactory_CoffeeStainStudios_S2_1200x1600-1a510892940ba0c7b252e42b1554f5dc"
   },
@@ -363,7 +363,7 @@
     "position": 46,
     "diff": -46,
     "title": "Surviving the Aftermath",
-    "price": "€29.99",
+    "price": "$29.99",
     "url": "https://egdata.app/product/surviving-the-aftermath",
     "image": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2_1200x1600-741ed183331de861ecb2f086f3fe8365"
   },
@@ -371,7 +371,7 @@
     "position": 47,
     "diff": -47,
     "title": "Football Manager 2022",
-    "price": "€54.99",
+    "price": "$54.99",
     "url": "https://egdata.app/product/football-manager-2022",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FootballManager2022_SportsInteractive_S2_1200x1600-5377adfa5fd611bd6726995ece5b04ef"
   },
@@ -379,7 +379,7 @@
     "position": 48,
     "diff": -12,
     "title": "Ghost Recon Breakpoint Standard Edition",
-    "price": "€59.99",
+    "price": "$59.99",
     "url": "https://egdata.app/product/ghost-recon-breakpoint",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66"
   },
@@ -387,7 +387,7 @@
     "position": 49,
     "diff": -28,
     "title": "Kena: Bridge of Spirits",
-    "price": "€39.99",
+    "price": "$39.99",
     "url": "https://egdata.app/product/kena-bridge-of-spirits",
     "image": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg"
   },
